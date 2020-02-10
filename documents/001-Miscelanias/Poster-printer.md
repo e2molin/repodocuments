@@ -20,10 +20,27 @@ En la parte inferior figura una leyenda en latín:
 
  > SCULTURA IN AES. Sculptor noua arte, bracteata in lamina / Sculpit figuras, atque prelis imprimit
 
-### ⛲ Fuentes
+
+##  Atelier d’imprimerie
+### Atelier d’imprimerie gravure sur bois par Abraham Van Werdt
+
+La imagen muestra un grabado en madera de **Abraham von Werdt** (1594-1671), que ilustra la actividad en un taller de impresión del siglo XVII.
+
+!["Atelier d’imprimerie gravure sur bois par Abraham Van Werdt"](img/AtelierTypographie-AVonWerdt.jpg "Atelier d’imprimerie gravure sur bois par Abraham Van Werdt")
+
+
+En la esquina inferior izquierda, aparece un personaje arrodillado junto a pliegos de papel. Se trata de un **almacenero**, que es el encargado de preparar las pilas de papel, de entregarlas a los impresores y del secado y alzado de los pliegos impresos.
+
+Al fondo aparecen los **cajistas**, operarios especializados, encargados de la composición. El cajista contaban letras, hacía los cálculos de los tipos que entraban en cada línea y establecía el número de páginas del libro, el número de planas y de hojas de papel necesarias. Además del trabajo técnico conocía el uso correcto de la ortografía de las lenguas en las que era capaz de componer.
+
+En primer término aparecen dos personajes fundamentales en una imprenta, el batidor y el tirador. El **batidor** se encarga  del entintado de las formas. El **tirador** es el operario encargado de la correcta colocación del papel y de dar el golpe de barra.
+
+
+
+## ⛲ Fuentes
 
 * [Université de Liège (Belgique) - Collections artistiques](http://www.wittert.ulg.ac.be/fr/flori/opera/vanderstraet/vanderstraet_reperta.html)
 * [Wikipedia. Grabado a buril](https://es.wikipedia.org/wiki/Grabado_a_buril)
-
+* [Museum für Druckkunst, Leipzig](https://www.druckkunst-museum.de/en/)
 
 

@@ -75,6 +75,10 @@ git push -u origin master
 
 Y podemos comprobar que se ha actualizado el repositorio, excepto el fichero readme.md, que se mantiene tal cual estaba en el punto en el que lo añadimos al indice. En el interfaz de GitLens vemos que está en el apartado changes, con el atributo (M:modified), y si hacemos un git status nos aparecerá como modified. Por eso cuando hicimos el *commit*, no se guardó la última versión; tendríamos que haber hecho un *git add* con antelación y después el *commit*.
 
+## Algo más sobre **GitLens 🕶**
+
 Aprovechamos este punto para indicar que podemos hacer un *commit* con **GitLens** pulsando el botón del *check* ✔ que aparece arriba en la barra de herramientas de **GitLens** 🔧. Tenemos que fijarnos que si queremos subir todos los ficheros al repositorio, en el apartado de *Changes* no tiene que haber ningún fichero antes de aplicar el *commit*.
 
 También con GitLens podemos ejecutar un  *push* en **Github**, seleccionando la opción push del menú desplegable, que sale al pulsar el botón de los puntos sucesivos de la barra de herramientas 🔧 de GitLens
+
+Cuando borremos un fichero o directorio, aparecerá en GitLens con el signo en rojo (D:deleted). También aparecerá cuando renombremos una carpeta. Todos los ficheros aparecrán con la **D** de borrado, ya aparecerán con la **U** de Updated para que volvamos a incluirlos en el índice del repositorio.
