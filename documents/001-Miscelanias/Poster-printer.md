@@ -7,7 +7,7 @@ Ubicación: planta sótano del Edificio A
 
 !["Exhibición de imprentas"](img/sala-printers.jpg "Exhibición de imprentas")
 
-##  Nova Reperta
+## 🎨 Nova Reperta
 ### Lámina 9: Taller de calcografía
 
 *Grabado a buril. 22x28 cm, ca.1600*
@@ -29,7 +29,7 @@ En la parte inferior figura una leyenda en latín:
  > SCULTURA IN AES. Sculptor noua arte, bracteata in lamina / Sculpit figuras, atque prelis imprimit
 
 
-##  Atelier d’imprimerie
+## 🎨 Atelier d’imprimerie
 ### Atelier d’imprimerie gravure sur bois par Abraham Van Werdt
 
 *Grabado en madera, ca.1639*
