@@ -1,4 +1,12 @@
 # Imágenes sala de exposiciones: sistemas de impresión
+
+* 👈🏻Prensa tipo Krause de ca.1860
+* 👉🏻Prensa tipo Brisset de ca.1865
+
+Ubicación: planta sótano del Edificio A
+
+!["Exhibición de imprentas"](img/sala-printers.jpg "Exhibición de imprentas")
+
 ##  Nova Reperta
 ### Lámina 9: Taller de calcografía
 
