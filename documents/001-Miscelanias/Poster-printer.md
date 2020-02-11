@@ -14,7 +14,7 @@ La lámina que representa el invento del grabado en metal, también llamado grab
 
 !["Lámina nº 9 de Nova Reperta"](img/nova-reperta-lam9.jpg "Lámina nº 9 de Nova Reperta")
 
-La lámina reproduce un taller calcográfico, en el que se representan las distintas fases de las que consta esta novedosa técnica de reproducción. A la izquierda de la composición, aparece un hombre con gafas grabando una plancha de cobre, sujetándola de forma inclinada para captar mejor la luz, junto a dos aprendices; sobre la mesa se ilustran algunos útiles para grabar, como cinceles y buriles de diferentes tamaños. En el centro del taller, un operario prepara la lámina para su impresión, calentándola para conseguir un óptimo entintado; en la misma mesa, otro artesano aplica la tinta a la matriz mediante el uso de un tampón. A la izquierda de la imagen, se representa el proceso de impresión, en el que el impresor se prepara para colocar la lámina sobre una hoja de papel humedecido que hará pasar bajo el rodillo del tórculo. El papel absorberá la tinta de la plancha, quedando estampada la imagen. Al fundo se muestran estampaciones ya terminadas, colgadas de la pared mediante unas cuerdas.
+La lámina reproduce un taller calcográfico, en el que se representan las distintas fases de las que consta esta novedosa técnica de reproducción. A la izquierda de la composición, aparece un hombre con gafas grabando una plancha de cobre, sujetándola de forma inclinada para captar mejor la luz, junto a dos aprendices; sobre la mesa se ilustran algunos útiles para grabar, como cinceles y buriles de diferentes tamaños. En el centro del taller, un operario prepara la lámina para su impresión, calentándola para conseguir un óptimo entintado; en la misma mesa, otro artesano aplica la tinta a la matriz mediante el uso de un tampón. A la izquierda de la imagen, se representa el proceso de impresión, en el que el impresor se prepara para colocar la lámina sobre una hoja de papel humedecido que hará pasar bajo el rodillo del tórculo. El papel absorberá la tinta de la plancha, quedando estampada la imagen. Al fondo se muestran estampaciones ya terminadas, colgadas de la pared mediante unas cuerdas.
 
 En la parte inferior figura una leyenda en latín:
 
@@ -24,16 +24,20 @@ En la parte inferior figura una leyenda en latín:
 ##  Atelier d’imprimerie
 ### Atelier d’imprimerie gravure sur bois par Abraham Van Werdt
 
-La imagen muestra un grabado en madera de **Abraham von Werdt** (1594-1671), que ilustra la actividad en un taller de impresión del siglo XVII.
+*Grabado en madera, ca.1639*
+
+La imagen muestra un grabado en madera de **Abraham von Werdt** (1594-1671), que ilustra la actividad en un taller de impresión del siglo XVII. En la parte superior derecha aparece un grifo sujetando entre sus garras un tintero, y a la izquierda eun ave fénix. El gremio de impresores alemanes solía adoptar como emblemas animales fantásticos. En el centro dos *putti* sujetan el escudo con las iniciales del autor. **Abraham von Werdt** fue un grabador de origen holandés que trabajó en la ciudad de Nuremberg
 
 !["Atelier d’imprimerie gravure sur bois par Abraham Van Werdt"](img/AtelierTypographie-AVonWerdt.jpg "Atelier d’imprimerie gravure sur bois par Abraham Van Werdt")
 
 
 En la esquina inferior izquierda, aparece un personaje arrodillado junto a pliegos de papel. Se trata de un **almacenero**, que es el encargado de preparar las pilas de papel, de entregarlas a los impresores y del secado y alzado de los pliegos impresos.
 
-Al fondo aparecen los **cajistas**, operarios especializados, encargados de la composición. El cajista contaban letras, hacía los cálculos de los tipos que entraban en cada línea y establecía el número de páginas del libro, el número de planas y de hojas de papel necesarias. Además del trabajo técnico conocía el uso correcto de la ortografía de las lenguas en las que era capaz de componer.
+Al fondo aparecen los **cajistas**, operarios especializados, encargados de la composición. El cajista contaba las letras, hacía los cálculos de los tipos que entraban en cada línea y establecía el número de páginas del libro, el número de planas y de hojas de papel necesarias. Además del trabajo técnico conocía el uso correcto de la ortografía de las lenguas en las que era capaz de componer. Llama la atención la cantidad de espacio destinado al almacenamiento de los tipos.
 
-En primer término aparecen dos personajes fundamentales en una imprenta, el batidor y el tirador. El **batidor** se encarga  del entintado de las formas. El **tirador** es el operario encargado de la correcta colocación del papel y de dar el golpe de barra.
+Los tipos se almacenaban en las llamadas cajas tipográficas. Los tipos de caja alta (mayúsculas) se guardaban en la parte superior, mientras que las minúsculas se situaban en la inferior. De ahí viene el nombre inglés para las mayúsculas, *uppercase*, y para las minúsculas, *lowercase*.
+
+En primer término aparecen dos personajes fundamentales en una imprenta, el batidor y el tirador. El **batidor** se encarga  del entintado de las formas, humedeciéndolas con una especie de tampones llamados balas. El **tirador** es el operario encargado de la correcta colocación del papel sobre el tímpano, bajar la frasqueta y de dar el golpe de barra.
 
 
 
