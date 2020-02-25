@@ -17,6 +17,14 @@ El documento fue encontrado en las *Cuevas de los Mil Budas*, un centro religios
 En el año 1041 otro impresor chino, **Phi Sheng**, inventó unos tipos móviles en porcelana con caracteres chinos, aunque dada la enorme cantidad de ideogramas y caracteres chinos el innventó no terminó de triunfar.
 
 
+## Aguafuerte o *Etching*
+El aguafuerte es una modalidad de grabado que se efectúa tomando como base una plancha o lámina de aleación metálica, habitualmente de hierro, zinc o, más frecuentemente, cobre. La lámina se recubre de una fina capa de barniz protector, o de cera resistente a los ácidos. El grabador dibuja con un **estilete** de punta cónica muy afilada en esta capa de barniz, llegando justo hasta el cobre sin penetrar en él. Posteriormente se sumerge la lámina con su barniz en una solución de agua y ácido nítrico, la cual recibe el nombre del aguafuerte propiamente dicho. Esta solución corroe el cobre en las zonas en que este no está protegido por el barniz, y deja unos surcos. El tiempo de inmersión de la lámina en el ácido determina la profundidad de la línea en el grabado, otorgándole a mayor tiempo mayor valor. Una de las ventajas de esta técnica sobre otras es que pueden corregirse los errores, o hacerse retoques antes de someter la plancha metálica a la acción corrosiva. 
+
+El primero en utilizar esta técnica, hacia el año 1500, fue **Daniel Hopfer** (ca.1470, Kaufbeuren – 1536, Augsburgo). LA técnica del aguafuerte se empleaba para adornar armaduras desde finales del siglo XIV en Alemania, de donde pasó a Italia. Los primeros trabajos con esta técnica conservados pertenecen a **Albrecht Dürer**, que aprendió la técnica de **Daniel Hopfer**.
+
+
+
+
 ***
 
 ## Referencias
