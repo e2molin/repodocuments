@@ -2,5 +2,12 @@
 
 ## Lista
 * [Empezando Repodocuments](README.md)
-* [Desarrollo - Contenedores Docker](documents/001-Miscelanias/Desarrollo.md)
-* [Póster sala impresión](documents/001-Miscelanias/Poster-printer.md)
+* Miscelania
+  * [Póster sala impresión](documents/001-Miscelanias/Poster-printer.md)
+  * [Conociendo las técnicas de imprenta](documents/001-Miscelanias/Tecnicas-imprenta.md)
+* Mapas en el Barroco
+  * [El Barroco en la cartografía](documents/002-Mapasbarrocos/Barroque-maps.md)
+* Historia
+  * [Los vándalos](documents/003-Historia/vandalos.md)
+* Computadores
+  * [Susan Kare. La diseñadora de Apple](documents/004-Computers/SusanKare.md)
