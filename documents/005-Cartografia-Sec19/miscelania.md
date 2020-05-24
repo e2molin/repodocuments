@@ -4,6 +4,9 @@
 
 * [Los mapas de la persuasión](https://www.bl.uk/maps/articles/maps-for-display-and-persuasion)
 * [Los mapas satíricos](https://www.bl.uk/maps/articles/satirical-maps)
+* [Los mapas fantásticos](https://www.atlasobscura.com/articles/fantastical-maps-to-escape-into)
+
+
 
 ## 🎨 Fred W. Rose (1849-1915)
 
