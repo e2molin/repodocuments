@@ -26,4 +26,4 @@ Miscelania [aquí 👉](documents/005-Cartografia-Sec19/miscelania.md)
 
 ### Cartografía siglo XX
 
-Miscelania [aquí 👉](documents/005-Cartografia-Sec20/miscelania.md)
+Miscelania [aquí 👉](documents/005-Cartografia-Sec20/miscelanea.md)
