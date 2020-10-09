@@ -6,6 +6,13 @@
 * [La geografía en las aulas: curiosidades cartográficas en la BNE](http://blog.bne.es/blog/la-geografia-en-las-aulas-curiosidades-cartograficas-en-la-bne/)
 * [El cartógrafo Enrique d´Almonte en la Biblioteca Nacional de España](http://blog.bne.es/blog/el-cartografo-enrique-dalmonte-en-la-biblioteca-nacional-de-espana/)
 * Exposición Bending Lines: Maps and data from Distortion to Deception [🔗 Enlace](https://www.leventhalmap.org/digital-exhibitions/bending-lines/) en la Boston Public Library.
+* El mapa de París [🔗 Enlace](https://www.geografiainfinita.com/2016/04/de-como-el-autor-del-mapa-de-metro-de-londres-fracaso-con-el-de-paris/?fbclid=IwAR1_CsJQsJe0ysthKCM_egXfGY-IJX3bKBAIKVIrm2ezOmNOZon-Dn84-Gc)
+* Los mapas turísticos del Lago Constanza de Joseph Ruep [🔗 Enlace](https://blog.nationalmuseum.ch/en/2019/04/the-iconic-lake-constance-and-rhine-poster/)
+* Las guías Michelin [🔗 Enlace](https://www.lavanguardia.com/comer/al-dia/20200902/33084/hallan-guia-michelin-espana-portugal-1910-valorada-18-000-euros.html)
+
+## 🎨 Marie Tharpe
+
+* [Story Map de Marie Tharpe](https://storymaps.arcgis.com/stories/232257acdac6409a907abd77b3d83f89)
 
 ## 🎨 Agnes Denes
 
@@ -19,12 +26,20 @@ Doughnut-shaped Earth, Agnes Denes - MetMuseum [🔗 Enlace](https://www.metmuse
 Isometric-shaped Earth, Agnes Denes - MetMuseum[🔗 Enlace](https://www.metmuseum.org/art/collection/search/492300)
 
 
-# 🎨 MacDonald Gill
+# 🎨 Leslie MacDonald Gill (1884–1947)
+
+Arquitecto, rotulador, pintor de murales y artista gráfico británico de principios del siglo XX. Hermano del tipógrafo Eric Gill, creador de la tipografía Gill Sans. Quizás sea más conocido por sus mapas de carteles pictóricos, incluido el caprichoso "Wonderground Map" de 1914, que resultó tan popular entre los pasajeros que se convirtió en el primer cartel del metro de Londres.
 
 * [🎨 Fuente British Library](https://www.bl.uk/collection-items?creator_sorted=Leslie*Gill)
 * [✍ The life and legacy of MacDonald Gill](https://www.bl.uk/maps/articles/the-life-and-legacy-of-macdonald-gill)
+* [📕 MacDonald Gill: Charting a Life de Caroline Walker](https://www.amazon.com/o/ASIN/1912690896/maproom-20)
 
 ![Tea revives the World - British Library](img/1940-tea-macdonaldgill.jpg)
+
+![1915 - Wonderground Map of London Town ](img/Gill-Wonderground-map.jpg)
+
+[👆 1915 - Wonderground Map of London Town](https://www.bl.uk/collection-items/wonderground-map)
+
 ![Map of the electric railways of London by MacDonald Gill (1921, though dated 1920)](img/1921-tubemap-macdonaldgill.jpg)
 
 

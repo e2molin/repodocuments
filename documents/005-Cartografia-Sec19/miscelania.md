@@ -5,6 +5,7 @@
 * [Los mapas de la persuasión](https://www.bl.uk/maps/articles/maps-for-display-and-persuasion)
 * [Los mapas satíricos](https://www.bl.uk/maps/articles/satirical-maps)
 * [Los mapas fantásticos](https://www.atlasobscura.com/articles/fantastical-maps-to-escape-into)
+* [Los orígenes en la visualización de datos](https://culturacientifica.com/2019/08/01/los-origenes-de-la-visualizacion-de-datos/)
 
 
 
