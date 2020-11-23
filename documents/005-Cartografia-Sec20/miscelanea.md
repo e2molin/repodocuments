@@ -88,3 +88,66 @@ Los antiguos lechos "aparecieron".
 ![](img/paula-scher.jpg)
 
 https://twitter.com/ANAISABELGONZL2/status/1261675707996024832
+
+
+
+# 🎨 Lucien Boucher
+
+*The Blue Pink Poster* es una de una serie de ocho carteles encargados por **Air France** con caracter publicitario, a modo de posters. Estos «planisferios» se produjeron por primera vez en 1934 y mostraban las rutas de viaje en constante expansión de Air France. Boucher creo varios de estos carteles entre 1934 y 1962. En algunos añadió constelaciones y zodiacos. Muchos presentaban pequeñas escenas locales de varios países para demostrar la variedad de destinos a los que llegaba Air France en ese momento.
+
+Por lo general, estos carteles se distribuían a las agencias de viajes de todo el mundo como artículos promocionales. Los detalles finos y las ilustraciones coloridas hacen que estos mapas sean muy deseables para los coleccionistas. Entre otros autores que realizaron estos posters se encuentran Cocteau, Mathieu, Brenet, Picart Ledoux o Vasarely.
+
+![](img/air-france-lucien-boucher.jpg)
+
+## 🎨 Richard Edes Harrison
+
+La Segunda Guerra Mundial supuso para el mundo de la cartografía un enorme boom de ventas en Estados Unidos. La demanda de mapas explicando la situación geográfica de los teatros de acción del conflicto bélico se dispararon, y revistas como National Geographic y la prensa en general publicaron decenas de mapas. **Susan Shulten** cuenta el 1 de septiembre de 1939, los nazis invadieron Polonia y, al final del día, los mapas de Europa estaban complemanete agotados en todo Estados Unidos. La editorial Rand McNally informó haber vendido más mapas y atlas de los teatros europeos en las dos primeras semanas de septiembre que en todos los años desde el armisticio de 1918. 
+
+La guerra siempre ha fomentado el interés por la geografía, pero la Segunda Guerra Mundial fue diferente. El pueblo americano necesitaba comprender por qué el presidente Roosevelt estaba estacionando tropas en Islandia o enviando flotas al Océano Índico. Los estadounidenses habían sido criados en el mapa Mercator del mundo, una proyección del siglo XVI diseñada para la navegación pero que creaba inmensas distorsiones en las latitudes lejanas al norte y al sur. Estaban tan acostumbrados a ver el mundo cartografiado en la proyección de Mercator que cualquier otra proyección de representación encontró rechazo en colegios y las salas de estar. Pero la aparación de la aviación y la ampliación del teatro bélico oligaba a buscar nuevos puntos de vista.
+
+Tuvo que ser un ilustrador más que un cartógrafo, Richard Edes Harrison, quien ideara estos nuevos puntos de vista para comprender el mundo. A finales de la década de 1930, Richard Edes Harrison dibujó una serie de imágenes elegantes y apasionantes de un mundo en guerra, y en el proceso persuadió al público de que la aviación y la guerra realmente habían alterado fundamentalmente la naturaleza de la geografía. Formado en diseño, llegó a Nueva York durante la Depresión y se ganó la vida creando de todo, desde botellas de whisky hasta ceniceros. Un día, un amigo de Time le pidió que hiciera algunas ilustraciones para la publicación hermana, Fortune. Harrison utilizó técnicas de perspectiva y color para traducir la tierra redonda en papel plano. De hecho, Harrison consideraba que su falta de formación en cartografía era una ventaja, ya que no tenía una comprensión fija de cómo debería ser un mapa. 
+
+Sus geo-visualizaciones artísticas de las crisis políticas en Europa y Asia. La decisión clave que tomó fue rechazar la proyección de Mercator, que había sobrevivido a su propósito. En cambio, se basó en otras proyecciones, como esta de 1941, centrada en el polo norte y que unió a Eurasia y América del Norte, aunque distorsionando el hemisferio sur como resultado.
+
+![](img/1941-richard-edes-polar.jpg)
+[The World divided, 1941 - David Rumsey Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~274103~90047834)
+
+Harrison ennegreció a toda la Unión Soviética como parte del Eje para reflejar la reciente invasión alemana. Para Harrison, la proyección polar era la nueva realidad geográfica, una que requería del internacionalismo estadounidense.
+
+El legado más notable de Harrison fue una serie de imágenes coloridas y a veces desorientadoras (no del todo mapas) que enfatizaban las relaciones entre ciudades, naciones y continentes en el corazón de la guerra. Estos mapas se publicaron en Fortune y luego se publicaron en un atlas que se convirtió en un éxito de ventas instantáneo en 1944.
+
+
+![](img/1944-europe-from-east-richard-edes.jpg)
+[Europe from East, 1944 - David Rumsey Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~266329~5504885)
+
+Una de sus imágenes más impactantes fue esta visión de Europa desde el este 👆. Se trata de un anticipo de los que décadas después llegará de la mano de Google Earth. Aquí Harrison reintrodujo una dimensión esférica en el mapa, centrándose en los escenarios de guerra de una manera que, por ejemplo, representaba el lugar central del Mediterráneo y los obstáculos topográficos que enfrenta cualquier invasión del sur de Europa. Las fronteras nacionales eran secundarias y proponía al observador un punto de vista nuevo.
+
+![](img/1944-russia-from-south-richard-edes.jpg)
+[Russia from the South, 1944 - David Rumsey Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~266332~5504888)
+
+La capacidad de Harrison para jugar con la escala evoca la perspectiva de un piloto, pero colocado a una distancia infinita. Los cartógrafos se apresuraron a señalar que tal perspectiva no existía en la naturaleza. Sin embargo, al dibujar la topografía con tanto cuidado, Harrison hizo que el terreno fuera mucho más real de lo que había sido en la representación abstracta de montañas utilizada en mapas tradicionales. Su mapa de Rusia desde el sur 👆, dibujado justo antes del final del Pacto Hitler-Stalin, ilustra poderosamente el tamaño de la Unión Soviética y su población. Richard hace uso de luces y sombras para representar las múltiples zonas horarias abarcadas por la masa continental rusa, mientras que el gráfico de la parte inferior derecha captura el crecimiento masivo de la población urbana en las regiones occidentales.
+
+Harrison emplea un uso imagintivo del color para crear la sensación de perspectiva y 3D. De esta manera dio al público una imagen vívida de lugares que de otra manera permanecían extranjeros, como este detalle de primer plano de su mapa de Japón desde Siberia 👇.
+
+![](img/1944-japan-from-siberia-richard-edes.jpg)
+[Japan from Siberia, 1944 - David Rumsey Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~266338~5504894)
+
+
+![](img/1944-japan-from-salomon-richard-edes.jpg)
+[Japan from Salomon Islands, 1944 - David Rumsey Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~266336~5504892)
+
+Sus sorprendentes vistas de Japón desde Alaska 👇 y las Islas Salomón 👆 descubrieron a los estadounidenses la proximidad del Eje a su casa y prepararon al público para una lucha tenaz en el Pacífico. Tal vista estaba completamente ausente de los mapas tradicionales del Pacífico norte, que distanciaban cómodamente a Japón y Asia de América del Norte a través de un enorme océano Pacífico .
+
+![](img/1944-japan-from-alaska-richard-edes.jpg)
+[Japan from Siberia, 1944 - David Rumsey Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~266335~5504891)
+
+Las sucesivas ediciones de los atlas de Harrison se gotaron rápidamente en tiendas y librerías.  La mayoría de los cartógrafos profesionales celebraron su estilo provocador por su capacidad para fomentar una comprensión más dinámica de las relaciones geográficas, y los militares contrataron a Harrison para hacer mapas para los soldados en el campo y para ayudar a entrenar a los pilotos para comprender las regiones que aún no habían sido fotografiadas desde el aire. No pasó mucho tiempo antes de que revistas como Time o Newsweek comenzaran a experimentar con nuevas técnicas de mapeo visual popularizadas por Harrison.
+
+Los críticos con Harrison afirmaron que su trabajo era más propagandístico y pictórico que científico y fiable, representando caricaturas del globo en lugar de fidelidad a la latitud y longitud. Pero su objetivo era sacar a los estadounidenses de un sentido bidimensional de la geografía y adoptar una comprensión de la perspectiva y la dirección.
+
+En una entrevista a Harrison en Nueva York al final de su vida en 1993, se consideraba artista en lugar de cartógrafo, porque desdeñaba las técnicas restringidas de los cartógrafos que estaban sujetos a las convenciones. Podemos ubicar su obra entres el arte y la cartografía, proporcionando el eslabón perdido entre el mundo y el mapa. Hoy en día el término "global" es un cliché, pero en el caso de Harrison es una caracterización adecuada. Al volver a dibujar el mapa del mundo, Harrison contribuyó a reconsiderar el papel de Estados Unidos en ese mundo.
+
+### ⛲ Fuentes
+
+* World War II Led to a Revolution in Cartography. These Amazing Maps Are Its Legacy, Susan Schulten. [🔗 Enlace](https://newrepublic.com/article/117835/richard-edes-harrison-reinvented-mapmaking-world-war-2-americans)
+* MApas de Richard Edes HArrison en David Rumsey Map Collection [🔗 Enlace](https://www.davidrumsey.com/luna/servlet/view/search?q=author=%22Harrison%2C%20Richard%20Edes%22)
