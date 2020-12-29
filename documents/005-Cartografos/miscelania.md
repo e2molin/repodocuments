@@ -23,6 +23,19 @@ Cartógrafo y misionero jesuita. [📕 Diccionario de la RAH](http://dbe.rah.es/
 
 [👆 1707 - Amazonas - National Library of Brazil ](https://www.wdl.org/es/item/1137/) Se grabó en una prensa manual que tenían los jesuitas en el Colegio de Quito, en el año 1707, y está dedicado a Felipe V, rey de España. Empezó a cartografiar la región como parte de un proyecto destinado a aclarar los límites entre las tierras misioneras, las tierras españolas y las tierras portuguesas. 
 
+
+## Johannes Vinckeboons  (1616–1670)
+
+Cartógrafo holandés famoso por su empleo de la acuarela, técnica heredada de su pade, pintor. Realiza una serie de acuarelas sobre ciudades vinculadas con la Compañía Neerlandesa de las Indias Orientales, principalmente los puertos en Asia.
+
+![Österreichische Nationalbibliothek, Vienna, inv. nr. 39:15](img/1665-Malakka-Vingboons.jpg)
+
+[👆 1665 - Vista de la ciudad de Malaca - Österreichische Nationalbibliothek, Vienna, inv. nr. 39:15 ](https://ca.m.wikipedia.org/wiki/Fitxer:AMH-6156-NA_Map_of_the_city_of_Malakka.jpg)
+
+![Österreichische Nationalbibliothek, Vienna, inv. nr. 39:15](img/1664-NewAmsterdam-Vingboons.jpg)
+
+[👆 1664 - Vista de Nueva Amsterdam - Geheugen van Nederland (Memory of The Netherlands ](https://commons.wikimedia.org/wiki/File:GezichtOpNieuwAmsterdam.jpg)
+
 ## Theodore de Bry (1528-1598)
 
 Orfebre, grabador, autor y editor belga, nacido en Lieja en 1528. Pertene a una familia de reconocidos orfebres. De Bry se mudó a Estrasburgo, donde se empezó a interesar por el grabado. Más tarde, se mudó a Amberes con su familia. En Amberes vivía cerca del taller de Christopher Plantin, uno de los principales editores de la Europa del momento. Eso le hizo interesarse aún más por el grabado, y empezó a dedicarse a ello de manera más seria. Pero, en 1585, la familia marcha a Londres, donde De Bry realiza grabados para obras tan importantes como la edición inglesa de "The Mariners Mirrour" (1588).

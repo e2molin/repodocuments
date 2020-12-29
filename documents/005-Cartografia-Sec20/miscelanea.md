@@ -9,10 +9,17 @@
 * El mapa de París [🔗 Enlace](https://www.geografiainfinita.com/2016/04/de-como-el-autor-del-mapa-de-metro-de-londres-fracaso-con-el-de-paris/?fbclid=IwAR1_CsJQsJe0ysthKCM_egXfGY-IJX3bKBAIKVIrm2ezOmNOZon-Dn84-Gc)
 * Los mapas turísticos del Lago Constanza de Joseph Ruep [🔗 Enlace](https://blog.nationalmuseum.ch/en/2019/04/the-iconic-lake-constance-and-rhine-poster/)
 * Las guías Michelin [🔗 Enlace](https://www.lavanguardia.com/comer/al-dia/20200902/33084/hallan-guia-michelin-espana-portugal-1910-valorada-18-000-euros.html)
+* [Las primeras guías turísticas: Baedeker y Murray](https://www.geografiainfinita.com/2017/07/las-primeras-guias-modernas-de-viaje/)
+* Los mapas de Heinrich Berann (Marie Tharpe - Ocean´s Floor) y James Niehues (Estaciones de esquí)
+
+
+---
 
 ## 🎨 Marie Tharpe
 
 * [Story Map de Marie Tharpe](https://storymaps.arcgis.com/stories/232257acdac6409a907abd77b3d83f89)
+
+---
 
 ## 🎨 Agnes Denes
 
@@ -25,8 +32,9 @@ Doughnut-shaped Earth, Agnes Denes - MetMuseum [🔗 Enlace](https://www.metmuse
 ![Isometric-shaped Earth, Agnes Denes - MetMuseum](img/isometric-map-AgnesDenes.jpg)
 Isometric-shaped Earth, Agnes Denes - MetMuseum[🔗 Enlace](https://www.metmuseum.org/art/collection/search/492300)
 
+---
 
-# 🎨 Leslie MacDonald Gill (1884–1947)
+## 🎨 Leslie MacDonald Gill (1884–1947)
 
 Arquitecto, rotulador, pintor de murales y artista gráfico británico de principios del siglo XX. Hermano del tipógrafo Eric Gill, creador de la tipografía Gill Sans. Quizás sea más conocido por sus mapas de carteles pictóricos, incluido el caprichoso "Wonderground Map" de 1914, que resultó tan popular entre los pasajeros que se convirtió en el primer cartel del metro de Londres.
 
@@ -42,21 +50,25 @@ Arquitecto, rotulador, pintor de murales y artista gráfico británico de princi
 
 ![Map of the electric railways of London by MacDonald Gill (1921, though dated 1920)](img/1921-tubemap-macdonaldgill.jpg)
 
+---
 
-# 🎨 Edward Everett Henry (1893-1961)
+## 🎨 Edward Everett Henry (1893-1961)
 
 * [🎨 Fuente Barron Maps](http://www.barronmaps.com/edward-everett-henry-1893-1961/)
 
 ![The Voyage of Pequod, 1956](img/pequod-everett-henry.jpg)
 
-# 🎨 Joseph Ferdinand Keppler (1893-1961)
+---
+
+## 🎨 Joseph Ferdinand Keppler (1893-1961)
 
 * [🎨 Fuente Cornell University Library](https://digital.library.cornell.edu/catalog/ss:19343487)
 
 ![Standard Oil Cartoon](img/1904-StandardOil-JohnKepler.jpg)
 
+---
 
-# 🎨 Harold Fisk (ca.1944)
+## 🎨 Harold Fisk (ca.1944)
 
 Entre 1944-1947 el geólogo Harold Fisk confeccionó para el Cuerpo de Ingenieros del Ejército de los EEUU mapas geológicos del curso bajo del Misisipi (2.000 millas Illinois-Louisiana) en base a trabajo de campo, mapas antiguos y fotos aéreas.
 Los antiguos lechos "aparecieron".
@@ -67,37 +79,60 @@ Los antiguos lechos "aparecieron".
 * [🎨 Mapas de Harold Fisk en alta resolución](http://www.radicalcartography.net/index.html?fisk)
 * [🎨 Los mapas del río Mississippi](https://losmapasmolanmil.wordpress.com/2019/04/30/los-cambios-del-rio-mississippi/)
 
+---
 
-
-# 🎨 Los mapas modernos de Nathan Yau
+## 🎨 Los mapas modernos de Nathan Yau
 
 ![Mapas de censo de Nathan Yau](img/censo-nathan-yau.jpg)
 
 * [Sobre los mapas de censo actual de estilo antiguo de **Nathan Yau**](https://www.geografiainfinita.com/2015/11/los-datos-geograficos-actuales-de-estados-unidos-puestos-en-el-mapa-del-censo-de-1870/)
 * [Página web con su obra]()
 
+---
 # Los mapas en los mundos inventados - Juegos de computación
 
 ![Mapa de Street Fighter](img/mapas-de-videojuegos-4.jpg)
 * [Mapas en los tiempos del ZX Spectrum](https://www.orbemapa.com/gis-sociedad/mapas-en-los-tiempos-del-zx-spectrum-o-por-que-los-goonies-nunca-dicen-muetto/)
 * [Los mapas de los videojuegos](https://geoinnova.org/blog-territorio/mapas-de-videojuegos/)
 
-
-# 🎨 Paula Scher
+---
+## 🎨 Paula Scher
 
 ![](img/paula-scher.jpg)
 
 https://twitter.com/ANAISABELGONZL2/status/1261675707996024832
 
+---
 
+## 🎨 Lucien Boucher (1889-1971)
 
-# 🎨 Lucien Boucher
+Pintor e ilustrador francés. Impresor y diseñador. Se graduó en *Sèvres Ceramics School* y comienza su carrera tras la Primera Guerra Mundial, trabajando como ilustrador de comics en el semanario *Le Rire*. También trabajó en la revista *Fantasio*. En los años veinte trabaja como diseñador de carteles para cine y publicidad publicando litografías con un estilo inspirado en el Surrealismo.
+
 
 *The Blue Pink Poster* es una de una serie de ocho carteles encargados por **Air France** con caracter publicitario, a modo de posters. Estos «planisferios» se produjeron por primera vez en 1934 y mostraban las rutas de viaje en constante expansión de Air France. Boucher creo varios de estos carteles entre 1934 y 1962. En algunos añadió constelaciones y zodiacos. Muchos presentaban pequeñas escenas locales de varios países para demostrar la variedad de destinos a los que llegaba Air France en ese momento.
 
 Por lo general, estos carteles se distribuían a las agencias de viajes de todo el mundo como artículos promocionales. Los detalles finos y las ilustraciones coloridas hacen que estos mapas sean muy deseables para los coleccionistas. Entre otros autores que realizaron estos posters se encuentran Cocteau, Mathieu, Brenet, Picart Ledoux o Vasarely.
 
 ![](img/air-france-lucien-boucher.jpg)
+Este mapa de 1961 ☝️ sugiere un movimiento circular alrededor del polo
+
+Boucher creo un total de 14 planisferios, cuatro de ellos de gran formato. Los planisferios eran la mejor herramienta para mostrar la cobertura global de las líneas aéreas. Cada nueva edición requería un cambio en la escala cromática, símbolos y alegorías de cada continente, además de, por supuesto, una actualización en la lista de destinos que crecía año tras año.
+
+Otros diseñadores con los que trabajó Boucher para Air France fueron: Jean Colin (Norteamérica), Paul Colin (África), Jacques Dubois (Sudamérica), Guy Gerget (Lejano Oriente), Eric Lancaster (Paris), Hervé Morvan (Europa) o Jean Picart Le Doux (Francia) y Georges Mathieu.
+
+Boucher no destaca sólo por sus planisferios. Realiza varios mapas particulares como este de la Indochina francesa de 1945.👇
+![](img/indochina-lucien-boucher.jpg)
+
+![](img/pashmine-planisferio-lucien-boucher.jpg)
+Y sus diseños no se reducen a cartelería. Este ☝️ es un pañuelo promocional de 1948 de la adquisición de la aeronave Constellation que permitió ampliar los vuelos sin escala
+
+
+### ⛲ Fuentes
+
+* The History of Air France Posters by: Marianne Hermann of Paris City Art [🔗 Enlace](https://www.youtube.com/watch?v=RejZ1ny4_-w)
+* Mapas de Lucien Boucher en David Rumsey [🔗 Enlace](https://www.davidrumsey.com/luna/servlet/view/search?q=author%3D%22Boucher%2C%20Lucien%20%281889-1971%29%22&os=0)
+---
+
 
 ## 🎨 Richard Edes Harrison
 
