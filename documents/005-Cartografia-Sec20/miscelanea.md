@@ -15,6 +15,17 @@
 
 ---
 
+
+## 🎨 Erwin Raisz (1893-1968)
+
+ Lőcse, Hungría, actual Eslovaquia, 1 de marzo de 1893 - Bangkok, Tailandia, 1 de diciembre de 1968. Es conocido por sus mapas fisiográficos de accidentes geográficos. En 1931 comenzó a trabajar en la Universidad de Harvard, más precisamente en el Instituto de Exploraciones Geográficas.2 En ese mismo año la Geographical Review publicó su estudio titulado El método fisiográfico de representar paisajes en los mapas (en inglés, The physiographic method of representing scenery on maps).
+
+![](img/1941-europa-raisz.jpg)
+
+![](img/1941-china-raisz.jpog)
+
+
+
 ## 🎨 Marie Tharpe
 
 * [Story Map de Marie Tharpe](https://storymaps.arcgis.com/stories/232257acdac6409a907abd77b3d83f89)

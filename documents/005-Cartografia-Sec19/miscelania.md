@@ -7,7 +7,10 @@
 * [Los mapas fantásticos](https://www.atlasobscura.com/articles/fantastical-maps-to-escape-into)
 * [Los orígenes en la visualización de datos](https://culturacientifica.com/2019/08/01/los-origenes-de-la-visualizacion-de-datos/)
 
+## 🎨 Levi Walter Yaggy (1848-1912)
 
+Las "infografías" del norteamericano Levi Walter Yaggy fueron un recurso pedagógico de primer orden para la enseñanza de las Ciencias de la Tierra. Esta ilustración (1893) muestra cómo se entendía la Tierra a finales del XIX, antes de la Tectónica de Placas.
+https://alpoma.net/carto/?p=7151
 
 
 ## 🎨 Konrad Miller (1844-1933)
