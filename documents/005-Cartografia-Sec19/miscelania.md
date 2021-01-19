@@ -67,3 +67,7 @@ La obra se puede consultar [aquí](https://t.co/TLh6ULuW26?amp=1). Se trata de u
 * [Artículo de National Geographic](https://www.nationalgeographic.com/news/2017/07/map-rome-history-lanciani-artifact/)
 * [Descarga del mapa](https://digilander.libero.it/amareroma/furtav.htm)
 * [Visualizador](https://t.co/TLh6ULuW26?amp=1)
+
+## 🎨 Adolf Erik Nordenskiöld (1832-1901)
+
+Helsinki, 18 de noviembre de 1832 - Dalby, Escania, 12 de agosto de 1901.  Geólogo, geógrafo, naturalista, mineralista, y explorador polar sueco de origen finés. Era el padre de Erland Nordenskiöld.
