@@ -6,6 +6,7 @@
 * [Los mapas satíricos](https://www.bl.uk/maps/articles/satirical-maps)
 * [Los mapas fantásticos](https://www.atlasobscura.com/articles/fantastical-maps-to-escape-into)
 * [Los orígenes en la visualización de datos](https://culturacientifica.com/2019/08/01/los-origenes-de-la-visualizacion-de-datos/)
+* [Las sociedades geográficas](https://www.geografiainfinita.com/2021/05/historia-de-las-sociedades-geograficas-y-su-papel-geopolitico/)
 
 ## 🎨 Levi Walter Yaggy (1848-1912)
 
