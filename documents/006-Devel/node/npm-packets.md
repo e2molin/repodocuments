@@ -9,7 +9,7 @@ Este paquete analiza las dependencias del **package.json** y propone actualizaci
 ```bash
 npm install -g npm-check-updates # Instalación
 
-$ ncu     # Análisis del package,json local
+$ ncu     # Análisis del package.json local
 $ ncu -u  # Actualización de los contenidos del package.json
 $ ncu -g  # Analizar dependencias globales
 $ ncu -i  # Modo interactivo, te va preguntando si quieres actualizar o no
