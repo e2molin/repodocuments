@@ -4,9 +4,9 @@ Javascript se crea en 1995 por **Brendan Eich** para *Netscape Navigator* como l
 
 El lanzamiento de Firefox en 2002 y Safari 2003 propician la aparición de aplicaciones web con una enorme exigencia en el Javascript del navegador. En 2008 aparece Chrome con el motor V8 de Javascript desarrollado por Lars Bak que multiplicana por 20 el rendimiento del Javascript en ese navegador.
 
-En 2009 **Ryan Dahl** sacó el motor V8 de Chrome y lo puso en el servidor,  por lo que Jaascript podía usarse en el backend. Esto convierte a JS en el lenguaje más usado del mundo.
+En 2009 **Ryan Dahl** sacó el motor V8 de Chrome y lo puso en el servidor, por lo que Javascript podía usarse en el backend. Esto convierte a JS en el lenguaje más usado del mundo.
 
-Node.JS da un paso más, llevando al JS a todas partes
+Node.JS da un paso más, llevando al JS a todas partes, creando un entorno  de ejecución
 
 * Servidor
 * IoT (internet of Things)
@@ -39,6 +39,19 @@ Lo que os generará un **package.json** básico que tomará el nombre del direct
   "license": "ISC"
 }
 ```
+
+Los parámetros por defecto se pueden preconfigurar para que cuando utilicemos esta opción, se rellenen correctamente.
+
+```bash
+npm config set init.author.name "Esteban E. Molin"
+npm config set init.author.email "esteban.emolin@gmail.com"
+npm config set init.author.url "https://www.develmap.com/cvitae/"
+npm config set init.license "MIT"
+npm config set init.version "0.0.1"
+```
+
+Esta información se guardará en un fichero **.npmrc** en nuestro *home*, en mi caso **C:\Users\melena** .
+
 Dentro de este fichero además se almacenan las dependencias, los paquetes que instalamos y de los que usamos determinadas funciones. Los paquetes se instalan en un directorio llamado *node_modules*, y para instalar un paquete usamos el comando
 
 ```bash
@@ -48,7 +61,7 @@ npm install <nombre-paquete>    # Se instala dentro de la carpeta node_modules
 # Es el comportamiento por defecto desde NPM5, y ya no hace falta ponerlo
 npm install axios --save        
 
-npm install -g <nombre-paquete> # Se instala a nivel global en el equipo
+npm install -g <nombre-paquete> # Se instala a nivel global en el equipo. Reservarlos para los CLI
 
 npm install <package name>@1.2.3 # Así instalamos una versión en particular de un paquete
 ```
