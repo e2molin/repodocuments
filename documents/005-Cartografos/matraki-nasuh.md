@@ -1,3 +1,17 @@
+# Matrakçı Nasuh
+
+Nasuh bin Karagöz bin Abdullah al-Visokavi al-Bosnavi, o Nasuh al-Matrakči ibn Karađoz ibn Abdullah al-Visokavi al-Bosnevi, comúnmente conocido como Matrakçı Nasuh por su competencia en el juego de Matrak, inventado por él mismo (también conocido como Nasuh al-Silâhî, Nasuh el espadachín, debido a su talento con las armas; 1480 - c. 1564) fue un estadista bosnio del Imperio Otomano del siglo XVI, erudito, matemático, maestro, historiador, geógrafo, cartógrafo, espadachín, navegante, inventor, pintor, agricultor y miniaturista. Fue llevado a Estambul después de ser reclutado por los exploradores otomanos en Rumelia, educado, sirvió a varios sultanes otomanos y se convirtió en maestro en la escuela Enderun.
+
+Matrakçı Nasuh (bin Abdullah; hijo de Abdullah), nacido en la ciudad bosnia de Visoko, fue un talentoso jenízaro que pasó por el sistema de infantería y devşirme, un talentoso espadachín y francotirador bien conocido por su intelecto; hablaba cinco idiomas y fue reclutado en la Armada Otomana.
+
+Después de un largo período de estudios sobre matemáticas y geometría, escribió sus obras Cemâlü'l-Küttâb y Kemalü'l-Hisâb y las presentó al sultán otomano Selim I. También escribió los dos libros llamados Mecmaü't-Tevârih y Süleymannâme . Tratan de la historia del período 1520-1543. También escribió un artículo histórico sobre la campaña persa de Suleiman I titulado Fetihname-i Karabuğdan. Un estudio reciente de su libro Umdet-ul Hisab reveló un hecho desconocido de que Matrakçı había inventado algunos métodos de multiplicación genuinos. Uno de los resultados significativos que se muestran en este libro fue que el método de celosía había sido ampliamente utilizado en la Escuela Enderun casi 50 años antes de que John Napier lo reintrodujera en Europa.
+
+Además de sus trabajos sobre matemáticas e historia, es famoso por sus miniaturas. Creó un estilo naturalista que se centra en vistas panorámicas de paisajes y ciudades pintadas con el mayor detalle (su obra más famosa, la imagen del paisaje de Estambul, muestra casi todas las calles y edificios de la ciudad). En el arte en miniatura otomano, esto se conoció más tarde como el "estilo Matrakçı". El más importante de sus cuatro volúmenes históricos de miniaturas es el que trata sobre la guerra safávida de Suleiman I, sobre el que había escrito su obra histórica Fetihname-i Karabuğdan. Además de ilustrar la marcha del ejército otomano desde Estambul a Bagdad y luego a Tabriz y su regreso a través de Halab y Eskisehir, Nasuh también incluye todas las ciudades que encontró el ejército en el camino. La Biblioteca de la Universidad de Estambul alberga la única copia de este trabajo.
+
+## ⛲️ Fuentes
+
+* https://youtu.be/Rrnow7pS-Fs
+
 
 Durante la campaña de Irakeyn de Solimán el Magnífico entre 1533 y 1536, el sultán y su ejército se quedaron en las ciudades del rango turco-islámico ubicadas entre Estambul y Tabriz. El historiador otomano **Matrakçı Nasuh** describió las ciudades más importantes en su obra, cuyo nombre completo es Beyân-ı Menâzil-i Sefer-i Irâkeyn-i Sultan Süleyman Han. Esta obra consta de 109 hojas, es decir, 218 páginas. Hay 107 miniaturas y 25 textos ilustrados en 132 páginas. Este estudio de Nasuh contiene información sobre la topografía de las ciudades de Anatolia, Irán occidental e Irak.
 
@@ -44,6 +58,9 @@ Matrakçı Nasuh se centró en el Castillo de Alepo y los bazares que reflejan l
 
 ![](img/aleppo.jpg)
 
+![](img/aleppo-2.jpg)
+
+
 ## La ciudad asediada por los castillos y el espíritu de Mevlana, Konya
 
 El primer elemento sorprendente en la pintura de Konya de Matrakçı Nasuh es el castillo de Gevale, uno de los primeros castillos que los selyúcidas compraron para dominar Konya, en las colinas. En el lado derecho de la ciudad rodeada por el Castillo Interior, se representan la cúpula verde 'kubbetü'l hadra' y la Tumba de Mevlana. El edificio de dos cúpulas en el centro de la pintura es la Mansión del Sultán Alaeddin. Además de estas obras, en la imagen también se ven obras como İnce Minareli Madrasa, Owner Ata Mosque y İplikçi Mosque.
@@ -56,10 +73,28 @@ Bagdad, uno de los importantes centros científicos y culturales del mundo islá
 
 ![](img/bagdad.jpg)
 
-# La ciudad rodeada de murallas y puertas, Diyarbakir
+## La ciudad rodeada de murallas y puertas, Diyarbakir
 
 A la vuelta de la campaña de Irakeyn (1535), el ejército se detuvo en Diyarbakir. En la miniatura de Diyarbakir de Matrakçı Nasuh, se ve un castillo interior de la ciudad rodeado de murallas; Las grandes estructuras que se muestran aquí deben pertenecer al palacio del Castillo Interior. En el centro de la imagen, hay cinco mezquitas, además de la Mezquita Ulu con su patio. En el castillo interior de Matrakçı, las grandes puertas de la ciudad; Una de ellas es la Puerta Oğrun que se abre al Tigris, la otra es la Puerta Kupeli que conduce a los molinos, y las dos últimas son las puertas Fatih y Saray que se abren a la ciudad. No descuidó pintar los árboles frutales frente a la puerta del castillo de la ciudad.
 
 Nota: Esta obra de Matrakçı Nasuh llamada “Beyân-ı Menâzil-i Sefer-i Irâkeyn” se conserva en la Biblioteca de la Universidad de Estambul con el número TY, 5964.
 
 ![](img/diyarbakir.jpg)
+
+
+## Dinever
+
+![](img/dinever.jpg)
+
+
+## Hereke Kalesi - Castillo de Hereke
+
+![](img/hereke-castle.jpg)
+
+## Zanjan
+
+![](img/zanjan.jpg)
+
+## Sultanije
+
+![](img/sultanije.jpg)
